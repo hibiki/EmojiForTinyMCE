@@ -1,0 +1,13 @@
+id: EmojiForTinyMCE
+name: EmojiForTinyMCE
+version: 1.00
+author_link: http://wp.graphact.com/
+author_name: Yoshimi Yoshizawa (hibiki443)
+description: <MT_TRANS phrase="Add table feature for TinyMCE.">
+l10n_lexicon:
+    ja:
+        Add table feature for TinyMCE.: "TinyMCE に絵文字を追加"
+
+editors:
+    tinymce:
+        extension: extension.tmpl

@@ -1,0 +1,15 @@
+<mt:setvarblock name="js_include" append="1">
+<script type="text/javascript" src="<mt:var name="static_uri">plugins/EmojiForTinyMCE/extension.js"></script>
+
+<script type="text/javascript">
+tinyMCE.PluginManager.load('emoji', '<mt:var name="static_uri">plugins/EmojiForTinyMCE/tinymce/editor_plugin<mt:unless name="optimize_ui">_src</mt:unless>.js');
+<mt:ignore>
+tinyMCE.PluginManager.load('emoji', '<mt:var name="static_uri">plugins/EmojiForTinyMCE/tinymce/editor_plugin_src.js');
+</mt:ignore>
+</script>
+
+</mt:setvarblock>
+
+<mt:setvarblock name="html_head" append="1">
+<link rel="stylesheet" href="<mt:var name="static_uri">plugins/EmojiForTinyMCE/skin/ui.css" type="text/css" />
+</mt:setvarblock>
