@@ -2,7 +2,7 @@
 
 Movable Type 6 で使用されているリッチエディタ TinyMCE 用の絵文字プラグインです。
 Six Apart 絵文字が使えるようになります。
-![Six Apart 絵文字 | Six Apart](http://www.sixapart.jp/about/emoji.html)
+[Six Apart 絵文字 | Six Apart](http://www.sixapart.jp/about/emoji.html)
 
 
 ## 使い方
