@@ -18,3 +18,8 @@ Six Apart 絵文字が使えるようになります。
 ## インストール
 mt-static と plugins を、MT のインストールディレクトリにアップロードしてください。
 
+
+## Six Apart 絵文字
+
+同梱している Six Apart 絵文字は『[クリエイティブ・コモンズ 表示 2.1 日本 ライセンス](http://creativecommons.org/licenses/by/2.1/jp/)』です。
+
