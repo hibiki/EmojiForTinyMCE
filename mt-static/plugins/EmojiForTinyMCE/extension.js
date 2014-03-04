@@ -11,7 +11,7 @@ $.extend(config, {
 });
 
 $.extend(config.plugin_mt_inlinepopups_window_sizes, {
-    '/emoji.htm': {
+    '/emoji.html': {
     	//250,160
         width: 415,
         height: 280

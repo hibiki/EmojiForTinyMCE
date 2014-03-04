@@ -22,7 +22,7 @@
 			// Register commands
 			ed.addCommand('mceEmoji', function() {
 				ed.windowManager.open({
-					file : url + '/emoji.htm',
+					file : url + '/emoji.html',
 					width : 250 + parseInt(ed.getLang('emoji.delta_width', 0)),
 					height : 160 + parseInt(ed.getLang('emoji.delta_height', 0)),
 					inline : 1
